@@ -5,7 +5,7 @@ import java.io.PrintWriter;
 import java.net.Socket;
 import java.util.Scanner;
 
-public class Main {
+public class ClientMain {
     public static void main(String[] args) {
         String host = "netology.homework";
         int port = 8086;
